@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="copy_4" itemID="4de9678d-00000750" sourceLibraryItemHRef="copy_3 copy" lastModified="1307392859">
+  <timeline>
+    <DOMTimeline name="copy_4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="327" height="75.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="-4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>It’s easy to delight Dad &#xD;with a Photo Poster!&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-4" size="24" face="ITCFranklinGothicStd-Demi" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>See how to create, order and pick up  &#xD;your poster in less than an hour.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="14" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

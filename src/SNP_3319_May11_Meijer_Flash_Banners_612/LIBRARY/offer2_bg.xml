@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="offer2_bg" itemID="4dd17b9a-00008781" sourceLibraryItemHRef="Symbol 2" lastModified="1306449487">
+  <timeline>
+    <DOMTimeline name="offer2_bg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="Bitmap dad.png">
+                  <matrix>
+                    <Matrix a="0.650360107421875" d="0.650360107421875" tx="-143.7" ty="-106"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="559.2" y="-3.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

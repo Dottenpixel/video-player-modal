@@ -1,0 +1,163 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="copy-one day grad sale!" itemID="4dcc2a67-00000322" sourceLibraryItemHRef="copy_2 copy" lastModified="1306444613">
+  <timeline>
+    <DOMTimeline name="copy-one day grad sale!">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-7"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#1A3A91"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2591 487|2591 1137"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1B3B91"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!144 1617/66 1656!66 1656/67 1465!67 1465/244 1554!244 1554/256 1560!256 1560/244 1566!244 1566/144 1617!244 1884/256 1890!256 1890/244 1896!244 1896/144 1947!144 1947/66 1986!66 1986/67 1795!67 1795/244 1884"/>
+                    <Edge cubics="!256 1560(;256,1560 244,1566 244,1566q256 1560 244 1566);"/>
+                    <Edge cubics="!244 1566(244,1566;244,1566 144,1617 144,1617q244 1566 144 1617);"/>
+                    <Edge cubics="!144 1617(;144,1617 66,1656 66,1656q144 1617 66 1656)66,1656;"/>
+                    <Edge cubics="!66 1656(;66,1656 67,1465 67,1465p66 1656 67 1465);"/>
+                    <Edge cubics="!67 1465(;67,1465 244,1554 244,1554q67 1465 244 1554)244,1554;"/>
+                    <Edge cubics="!244 1554(244,1554;244,1554 256,1560 256,1560q244 1554 256 1560);"/>
+                    <Edge cubics="!256 1890(;256,1890 244,1896 244,1896q256 1890 244 1896);"/>
+                    <Edge cubics="!244 1896(244,1896;244,1896 144,1947 144,1947q244 1896 144 1947);"/>
+                    <Edge cubics="!144 1947(;144,1947 66,1986 66,1986q144 1947 66 1986)66,1986;"/>
+                    <Edge cubics="!66 1986(;66,1986 67,1795 67,1795p66 1986 67 1795);"/>
+                    <Edge cubics="!67 1795(;67,1795 244,1884 244,1884q67 1795 244 1884)244,1884;"/>
+                    <Edge cubics="!244 1884(244,1884;244,1884 256,1890 256,1890q244 1884 256 1890);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="215.2" height="80.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7.5" ty="-1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>BIG Picture Daily Deal:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" size="21" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" size="18" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>  </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="-7" lineSpacing="-6" rightMargin="2.2" size="47" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-6" rightMargin="2.2" size="47" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>OFF</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-6" rightMargin="2.2" size="36" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="-5" lineSpacing="-6" rightMargin="2.2" size="47" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="-5" lineSpacing="-6" rightMargin="2.2" size="27" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="221.75" height="42" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="69.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>    Valid on print-to-store orders only</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" size="14" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" size="16" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>    Hurry, offer good for today only&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" size="14" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="-3.8" width="134.5" height="35.5" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="131.55" ty="27.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>big collage posters &#xD;(20x30)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-3" size="16" face="ITCFranklinGothicStd-Med" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="20.4" height="36" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="3" ty="24.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-6" rightMargin="2.2" size="30" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

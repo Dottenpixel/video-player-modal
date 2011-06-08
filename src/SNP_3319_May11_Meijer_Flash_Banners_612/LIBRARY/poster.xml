@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="poster" itemID="4ddea9b7-00000ed3" sourceFlashFilepath="../SNP_3254_Meijer_.fla" sourceLibraryItemHRef="poster" sourceLastModified="1306438530" lastModified="1306438530">
+  <timeline>
+    <DOMTimeline name="poster">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="poster2.png">
+                  <matrix>
+                    <Matrix tx="31" ty="4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

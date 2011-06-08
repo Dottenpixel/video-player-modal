@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="prints" itemID="4dd17cac-00009adf" sourceLibraryItemHRef="Symbol 2" lastModified="1306449404" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="prints">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="poster2.png">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-182.3" ty="-108.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

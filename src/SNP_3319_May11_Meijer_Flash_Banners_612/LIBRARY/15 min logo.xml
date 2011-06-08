@@ -1,0 +1,214 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="15 min logo" itemID="4ddeaf7c-000022c8" sourceLibraryItemHRef="1 hour logo copy" symbolType="graphic" lastModified="1306439548">
+  <timeline>
+    <DOMTimeline name="15 min logo">
+      <layers>
+        <DOMLayer name="Layer 6" color="#808080" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="31.8" height="33.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-92.3" ty="49.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>15</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="-1" lineSpacing="-4" size="28" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="32.6" height="24" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-55.35" ty="53.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>min</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-4" size="20" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="69.4" height="24.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-93.25" ty="77.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Express</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-2" size="11" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" letterSpacing="-2" lineSpacing="-2" size="11" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Prints&#xD;Guarantee</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-2" size="11" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-1125 1419/-381 1444!-381 1444/-1121 1469!-1121 1469[-1125 1478 -1133 1486!-1133 1486[-1148 1503 -1171 1503!-1171 1503[-1194 1503 -1209 1486!-1209 1486[-1216 1480 -1219 1473!-1219 1473/-1478 1481!-1478 1481|-1478 1407!-1478 1407/-1214
+ 1416!-1214 1416[-1212 1412 -1209 1409!-1209 1409[-1194 1394 -1171 1394!-1171 1394[-1148 1394 -1133 1409!-1133 1409[-1129 1414 -1125 1419"/>
+                    <Edge cubics="!-1478 1407(;-1478,1407 -1214,1416 -1214,1416q-1478 1407 -1214 1416);"/>
+                    <Edge cubics="!-1125 1419(;-1125,1419 -381,1444 -381,1444q-1125 1419 -381 1444);"/>
+                    <Edge cubics="!-1478 1481(;-1478,1481 -1478,1407 -1478,1407q-1478 1481 -1478 1407);"/>
+                    <Edge cubics="!-381 1444(;-381,1444 -1121,1469 -1121,1469q-381 1444 -1121 1469)-1121,1469;"/>
+                    <Edge cubics="!-1219 1473(;-1219,1473 -1478,1481 -1478,1481q-1219 1473 -1478 1481);"/>
+                    <Edge cubics="!-1121 1469(;-1123,1475 -1127,1481 -1133,1486q-1121 1469 -1133 1486);"/>
+                    <Edge cubics="!-1209 1486(;-1212,1483 -1214,1480 -1219,1473q-1209 1486 -1219 1473);"/>
+                    <Edge cubics="!-1214 1416(;-1214,1415 -1212,1412 -1209,1409q-1214 1416 -1209 1409);"/>
+                    <Edge cubics="!-1133 1486(;-1143,1497 -1156,1503 -1171,1503q-1133 1486Q-1148 1503q-1171 1503)-1171,1503;"/>
+                    <Edge cubics="!-1171 1503(;-1187,1503 -1199,1497 -1209,1486q-1171 1503Q-1194 1503q-1209 1486)-1209,1486;"/>
+                    <Edge cubics="!-1209 1409(;-1199,1399 -1187,1394 -1171,1394q-1209 1409Q-1194 1394q-1171 1394)-1171,1394;"/>
+                    <Edge cubics="!-1171 1394(;-1156,1394 -1143,1399 -1133,1409q-1171 1394Q-1148 1394q-1133 1409)-1133,1409;"/>
+                    <Edge cubics="!-1133 1409(;-1129,1413 -1126,1417 -1125,1419q-1133 1409 -1125 1419);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#DD1322"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!-1170 585[-1160 585 -1149 585!-1149 585[-815 585 -579 822!-579 822[-342 1058 -342 1392!-342 1392[-342 1397 -342 1402!-342 1402[-342 1424 -343 1445"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-343 1445[-361 1745 -579 1962!-579 1962[-815 2199 -1149 2199!-1149 2199[-1483 2199 -1720 1962!-1720 1962[-1956 1726 -1956 1391!-1956 1391[-1956 1058 -1720 822!-1720 822[-1490 592 -1170 585"/>
+                    <Edge fillStyle1="1" edges="
+!-1170 585|-1170 1445!-1170 1445|-343 1445"/>
+                    <Edge cubics="!-342 1392(-342,1392;-342,1395 -342,1398 -342,1402q-342 1392 -342 1402)-342,1402;"/>
+                    <Edge cubics="!-342 1402(;-342,1416 -342,1430 -343,1445q-342 1402 -343 1445);"/>
+                    <Edge cubics="!-343 1445(;-354,1644 -433,1817 -579,1962q-343 1445Q-361 1745q-579 1962);"/>
+                    <Edge cubics="!-579 822(;-421,979 -342,1169 -342,1392q-579 822Q-342 1058q-342 1392)-342,1392;"/>
+                    <Edge cubics="!-1720 1962(-1720,1962;-1877,1805 -1956,1614 -1956,1391q-1720 1962Q-1956 1726q-1956 1391);"/>
+                    <Edge cubics="!-1720 822(;-1567,669 -1384,590 -1170,585q-1720 822Q-1490 592q-1170 585);"/>
+                    <Edge cubics="!-1170 585(;-1163,585 -1156,585 -1149,585q-1170 585 -1149 585);"/>
+                    <Edge cubics="!-1956 1391(;-1956,1169 -1877,979 -1720,822q-1956 1391Q-1956 1058q-1720 822)-1720,822;"/>
+                    <Edge cubics="!-1149 2199(;-1372,2199 -1562,2120 -1720,1962q-1149 2199Q-1483 2199q-1720 1962)-1720,1962;"/>
+                    <Edge cubics="!-579 1962(;-736,2120 -926,2199 -1149,2199q-579 1962Q-815 2199q-1149 2199)-1149,2199;"/>
+                    <Edge cubics="!-1149 585(;-926,585 -736,664 -579,822q-1149 585Q-815 585q-579 822)-579,822;"/>
+                    <Edge cubics="!-1170 1445(;-1170,1445 -1170,585 -1170,585q-1170 1445 -1170 585)-1170,585;"/>
+                    <Edge cubics="!-343 1445(;-343,1445 -1170,1445 -1170,1445q-343 1445 -1170 1445)-1170,1445;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1B3B91"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-579 1962[-815 2199 -1149 2199!-1149 2199[-1483 2199 -1720 1962!-1720 1962[-1956 1726 -1956 1391!-1956 1391[-1956 1058 -1720 822!-1720 822[-1483 585 -1149 585!-1149 585[-815 585 -579 822!-579 822[-342 1058 -342 1392!-342 1392[-342 1726
+ -579 1962"/>
+                    <Edge cubics="!-342 1392(;-342,1615 -421,1805 -579,1962q-342 1392Q-342 1726q-579 1962)-579,1962;"/>
+                    <Edge cubics="!-579 822(;-421,979 -342,1169 -342,1392q-579 822Q-342 1058q-342 1392)-342,1392;"/>
+                    <Edge cubics="!-1720 1962(-1720,1962;-1877,1805 -1956,1614 -1956,1391q-1720 1962Q-1956 1726q-1956 1391);"/>
+                    <Edge cubics="!-1720 822(;-1562,664 -1372,585 -1149,585q-1720 822Q-1483 585q-1149 585)-1149,585;"/>
+                    <Edge cubics="!-1956 1391(;-1956,1169 -1877,979 -1720,822q-1956 1391Q-1956 1058q-1720 822)-1720,822;"/>
+                    <Edge cubics="!-1149 2199(;-1372,2199 -1562,2120 -1720,1962q-1149 2199Q-1483 2199q-1720 1962)-1720,1962;"/>
+                    <Edge cubics="!-579 1962(;-736,2120 -926,2199 -1149,2199q-579 1962Q-815 2199q-1149 2199)-1149,2199;"/>
+                    <Edge cubics="!-1149 585(;-926,585 -736,664 -579,822q-1149 585Q-815 585q-579 822)-579,822;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1B3B91"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-488 731[-213 1005 -213 1393!-213 1393[-213 1780 -488 2054!-488 2054[-762 2328 -1149 2328!-1149 2328[-1536 2328 -1811 2054!-1811 2054[-2085 1780 -2085 1392!-2085 1392[-2085 1005 -1811 731!-1811 731[-1536 457 -1149 457!-1149 457[-762
+ 457 -488 731"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="15_min_logo.png">
+                  <matrix>
+                    <Matrix tx="-120" ty="10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

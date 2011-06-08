@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_playnow" itemID="4de96b49-00003dd2" sourceLibraryItemHRef="btn_createnow copy" symbolType="graphic" lastModified="1307143047">
+  <timeline>
+    <DOMTimeline name="btn_playnow">
+      <layers>
+        <DOMLayer name="text" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#4A72BA"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-8873 838/-8777 909!-8777 909/-8873 983!-8873 983/-8873 838"/>
+                    <Edge cubics="!-8777 909(;-8777,909 -8873,983 -8873,983p-8777 909 -8873 983);"/>
+                    <Edge cubics="!-8873 838(;-8873,838 -8777,909 -8777,909q-8873 838 -8777 909);"/>
+                    <Edge cubics="!-8873 983(;-8873,983 -8873,838 -8873,838q-8873 983 -8873 838);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="65.7" height="16.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-521.25" ty="40.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Play Video</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="12" size="14" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-8754 818[-8716 856 -8716 910!-8716 910[-8716 964 -8754 1002!-8754 1002[-8792 1040 -8846 1040!-8846 1040[-8900 1040 -8938 1002!-8938 1002[-8976 964 -8976 910!-8976 910[-8976 856 -8938 818!-8938 818[-8900 780 -8846 780!-8846 780[-8792
+ 780 -8754 818"/>
+                    <Edge cubics="!-8754 818(;-8729,843 -8716,874 -8716,910q-8754 818Q-8716 856q-8716 910);"/>
+                    <Edge cubics="!-8846 780(;-8810,780 -8779,793 -8754,818q-8846 780Q-8792 780q-8754 818);"/>
+                    <Edge cubics="!-8976 910(;-8976,874 -8963,843 -8938,818q-8976 910Q-8976 856q-8938 818);"/>
+                    <Edge cubics="!-8754 1002(;-8779,1027 -8810,1040 -8846,1040q-8754 1002Q-8792 1040q-8846 1040);"/>
+                    <Edge cubics="!-8938 1002(;-8963,977 -8976,946 -8976,910q-8938 1002Q-8976 964q-8976 910);"/>
+                    <Edge cubics="!-8716 910(;-8716,946 -8729,977 -8754,1002q-8716 910Q-8716 964q-8754 1002);"/>
+                    <Edge cubics="!-8846 1040(;-8882,1040 -8913,1027 -8938,1002q-8846 1040Q-8900 1040q-8938 1002);"/>
+                    <Edge cubics="!-8938 818(;-8913,793 -8882,780 -8846,780q-8938 818Q-8900 780q-8846 780);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#4A72BA"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!-8688 773[-8746 715 -8829 715!-8829 715/-10399 715!-10399 715[-10482 715 -10541 773!-10541 773[-10599 832 -10599 915!-10599 915[-10599 998 -10541 1056!-10541 1056[-10515 1082 -10483 1097!-10483 1097[-10445 1115 -10399 1115!-10399 1115
+/-8829 1115!-8829 1115[-8747 1115 -8688 1056!-8688 1056[-8629 997 -8629 915!-8629 915[-8629 832 -8688 773"/>
+                    <Edge cubics="!-8688 773(;-8727,734 -8774,715 -8829,715q-8688 773Q-8746 715q-8829 715);"/>
+                    <Edge cubics="!-8629 915(;-8629,860 -8649,812 -8688,773q-8629 915Q-8629 832q-8688 773);"/>
+                    <Edge cubics="!-8829 1115(;-8774,1115 -8727,1095 -8688,1056q-8829 1115Q-8747 1115q-8688 1056);"/>
+                    <Edge cubics="!-8688 1056(;-8649,1017 -8629,970 -8629,915q-8688 1056Q-8629 997q-8629 915);"/>
+                    <Edge cubics="!-10541 773(;-10580,812 -10599,860 -10599,915q-10541 773Q-10599 832q-10599 915);"/>
+                    <Edge cubics="!-10483 1097(;-10458,1109 -10430,1115 -10399,1115q-10483 1097Q-10445 1115q-10399 1115);"/>
+                    <Edge cubics="!-10541 1056(;-10524,1073 -10504,1087 -10483,1097q-10541 1056Q-10515 1082q-10483 1097);"/>
+                    <Edge cubics="!-10599 915(;-10599,970 -10580,1017 -10541,1056q-10599 915Q-10599 998q-10541 1056);"/>
+                    <Edge cubics="!-10399 715(;-10454,715 -10502,734 -10541,773q-10399 715Q-10482 715q-10541 773);"/>
+                    <Edge cubics="!-10399 1115(;-10399,1115 -8829,1115 -8829,1115q-10399 1115 -8829 1115);"/>
+                    <Edge cubics="!-8829 715(;-8829,715 -10399,715 -10399,715q-8829 715 -10399 715);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

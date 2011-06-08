@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="copy_3" itemID="4dba010f-000043c8" sourceLibraryItemHRef="copy_2 copy" lastModified="1306439452">
+  <timeline>
+    <DOMTimeline name="copy_3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1B3B91"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!255 1580S2/243 1586!243 1586/143 1637!143 1637/65 1676!65 1676/66 1485!66 1485/243 1574!243 1574/255 1580!255 1910/243 1916!243 1916/143 1967!143 1967/65 2006!65 2006/66 1815!66 1815/243 1904!243 1904/255 1910!243 2224/255 2230!255 2230
+/243 2236!243 2236/143 2287!143 2287/65 2326!65 2326/66 2135!66 2135/243 2224"/>
+                    <Edge cubics="!243 1574(243,1574;243,1574 255,1580 255,1580q243 1574 255 1580);"/>
+                    <Edge cubics="!255 1580(;255,1580 243,1586 243,1586q255 1580 243 1586)243,1586;"/>
+                    <Edge cubics="!243 1586(;243,1586 143,1637 143,1637q243 1586 143 1637);"/>
+                    <Edge cubics="!66 1485(;66,1485 243,1574 243,1574q66 1485 243 1574);"/>
+                    <Edge cubics="!65 1676(65,1676;65,1676 66,1485 66,1485q65 1676 66 1485);"/>
+                    <Edge cubics="!143 1637(;143,1637 65,1676 65,1676q143 1637 65 1676);"/>
+                    <Edge cubics="!243 1904(;243,1904 255,1910 255,1910q243 1904 255 1910)255,1910;"/>
+                    <Edge cubics="!143 1967(;143,1967 65,2006 65,2006q143 1967 65 2006);"/>
+                    <Edge cubics="!243 1916(;243,1916 143,1967 143,1967q243 1916 143 1967)143,1967;"/>
+                    <Edge cubics="!255 1910(;255,1910 243,1916 243,1916q255 1910 243 1916);"/>
+                    <Edge cubics="!65 2006(65,2006;65,2006 66,1815 66,1815q65 2006 66 1815);"/>
+                    <Edge cubics="!66 1815(;66,1815 243,1904 243,1904q66 1815 243 1904);"/>
+                    <Edge cubics="!255 2230(;255,2230 243,2236 243,2236q255 2230 243 2236);"/>
+                    <Edge cubics="!243 2236(243,2236;243,2236 143,2287 143,2287q243 2236 143 2287);"/>
+                    <Edge cubics="!143 2287(;143,2287 65,2326 65,2326q143 2287 65 2326)65,2326;"/>
+                    <Edge cubics="!65 2326(;65,2326 66,2135 66,2135q65 2326 66 2135);"/>
+                    <Edge cubics="!66 2135(;66,2135 243,2224 243,2224q66 2135 243 2224)243,2224;"/>
+                    <Edge cubics="!243 2224(243,2224;243,2224 255,2230 255,2230q243 2224 255 2230);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="327" height="117.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="-4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>That’s My Dad!&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="18" face="ITCFranklinGothicStd-Demi" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Buy Dad a 17 oz. Latte Mug&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-4" size="24" face="ITCFranklinGothicStd-Demi" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>and get </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="24" face="ITCFranklinGothicStd-Demi" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>25% OFF!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="24" face="ITCFranklinGothicStd-Demi" fillColor="#DD1322"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="18" face="ITCFranklinGothicStd-MdCd" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>     Enter coupon code: </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="14" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>LATTE4DAD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="14" face="ITCFranklinGothicStd-Demi" fillColor="#1A3A91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="14" face="ITCFranklinGothicStd-Demi" fillColor="#DD1322"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>at checkout</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="14" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-2" size="16" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>     Valid on online ship-to-home orders only&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="1" size="14" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>     Hurry, offer good through June 4</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" size="14" face="FranklinGothic-Book" fillColor="#1B3B91"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

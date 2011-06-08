@@ -1,0 +1,166 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="1 hour logo" itemID="4c07ef89-000001d5" sourceLibraryItemHRef="Symbol 2" symbolType="graphic" lastModified="1306449357">
+  <timeline>
+    <DOMTimeline name="1 hour logo">
+      <layers>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="29.2" height="60" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.949996948242188" d="0.949996948242188" tx="-114.35" ty="59.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="-1" lineSpacing="-4" size="50" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="31" height="42" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.949996948242188" d="0.949996948242188" tx="-83.9" ty="69.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>hr</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-4" size="35" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" left="-1.5" width="72.4" height="22" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-121.25" ty="95.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Photo Creations&#xD;Guarantee</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-2" size="10" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#DD1322"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-1746 944S4[-1736 944 -1725 944!-1725 944[-1391 944 -1155 1181!-1155 1181[-918 1417 -918 1751!-918 1751[-918 1756 -918 1761!-918 1761[-918 1783 -919 1804"/>
+                    <Edge fillStyle0="1" edges="!-919 1804S1|-1746 1804!-1746 1804|-1746 944"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-1746 944S5[-2066 951 -2296 1181!-2296 1181[-2532 1417 -2532 1750!-2532 1750[-2532 2085 -2296 2321!-2296 2321[-2059 2558 -1725 2558!-1725 2558[-1391 2558 -1155 2321!-1155 2321[-937 2104 -919 1804"/>
+                    <Edge cubics="!-918 1751(-918,1751;-918,1754 -918,1757 -918,1761q-918 1751 -918 1761)-918,1761;"/>
+                    <Edge cubics="!-918 1761(;-918,1775 -918,1789 -919,1804q-918 1761 -919 1804);"/>
+                    <Edge cubics="!-919 1804(;-930,2003 -1009,2176 -1155,2321q-919 1804Q-937 2104q-1155 2321);"/>
+                    <Edge cubics="!-1155 1181(;-997,1338 -918,1528 -918,1751q-1155 1181Q-918 1417q-918 1751)-918,1751;"/>
+                    <Edge cubics="!-2296 2321(-2296,2321;-2453,2164 -2532,1973 -2532,1750q-2296 2321Q-2532 2085q-2532 1750);"/>
+                    <Edge cubics="!-2296 1181(;-2143,1028 -1960,949 -1746,944q-2296 1181Q-2066 951q-1746 944);"/>
+                    <Edge cubics="!-1746 944(;-1739,944 -1732,944 -1725,944q-1746 944 -1725 944);"/>
+                    <Edge cubics="!-2532 1750(;-2532,1528 -2453,1338 -2296,1181q-2532 1750Q-2532 1417q-2296 1181)-2296,1181;"/>
+                    <Edge cubics="!-1725 2558(;-1948,2558 -2138,2479 -2296,2321q-1725 2558Q-2059 2558q-2296 2321)-2296,2321;"/>
+                    <Edge cubics="!-1155 2321(;-1312,2479 -1502,2558 -1725,2558q-1155 2321Q-1391 2558q-1725 2558)-1725,2558;"/>
+                    <Edge cubics="!-1725 944(;-1502,944 -1312,1023 -1155,1181q-1725 944Q-1391 944q-1155 1181)-1155,1181;"/>
+                    <Edge cubics="!-1746 1804(;-1746,1804 -1746,944 -1746,944q-1746 1804 -1746 944)-1746,944;"/>
+                    <Edge cubics="!-919 1804(;-919,1804 -1746,1804 -1746,1804q-919 1804 -1746 1804)-1746,1804;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#DD1322"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-918 1751S2[-918 2085 -1155 2321!-1155 2321[-1391 2558 -1725 2558!-1725 2558[-2059 2558 -2296 2321!-2296 2321[-2532 2085 -2532 1750!-2532 1750[-2532 1417 -2296 1181!-2296 1181[-2059 944 -1725 944!-1725 944[-1391 944 -1155 1181!-1155
+ 1181[-918 1417 -918 1751"/>
+                    <Edge cubics="!-918 1751(;-918,1974 -997,2164 -1155,2321q-918 1751Q-918 2085q-1155 2321)-1155,2321;"/>
+                    <Edge cubics="!-1155 1181(;-997,1338 -918,1528 -918,1751q-1155 1181Q-918 1417q-918 1751)-918,1751;"/>
+                    <Edge cubics="!-2296 2321(-2296,2321;-2453,2164 -2532,1973 -2532,1750q-2296 2321Q-2532 2085q-2532 1750);"/>
+                    <Edge cubics="!-2296 1181(;-2138,1023 -1948,944 -1725,944q-2296 1181Q-2059 944q-1725 944)-1725,944;"/>
+                    <Edge cubics="!-2532 1750(;-2532,1528 -2453,1338 -2296,1181q-2532 1750Q-2532 1417q-2296 1181)-2296,1181;"/>
+                    <Edge cubics="!-1725 2558(;-1948,2558 -2138,2479 -2296,2321q-1725 2558Q-2059 2558q-2296 2321)-2296,2321;"/>
+                    <Edge cubics="!-1155 2321(;-1312,2479 -1502,2558 -1725,2558q-1155 2321Q-1391 2558q-1725 2558)-1725,2558;"/>
+                    <Edge cubics="!-1725 944(;-1502,944 -1312,1023 -1155,1181q-1725 944Q-1391 944q-1155 1181)-1155,1181;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1B3B91"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-789 1752S6[-789 2139 -1064 2413!-1064 2413[-1338 2687 -1725 2687!-1725 2687[-2112 2687 -2387 2413!-2387 2413[-2661 2139 -2661 1751!-2661 1751[-2661 1364 -2387 1090!-2387 1090[-2112 816 -1725 816!-1725 816[-1338 816 -1064 1090!-1064
+ 1090[-789 1364 -789 1752"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" selected="true" libraryItemName="15_min_logo.png">
+                  <matrix>
+                    <Matrix tx="-148.8" ty="27.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc_topbar" itemID="4dcc2633-000002e5" sourceLibraryItemHRef="Symbol 2" lastModified="1306519876">
+  <timeline>
+    <DOMTimeline name="mc_topbar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#330066"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!14640 0/240 0!240 0[0 0 0 239!0 239/0 811!0 811/14880 811!14880 811/14880 239!14880 239[14880 0 14640 0"/>
+                    <Edge cubics="!14880 811(;14880,811 14880,239 14880,239q14880 811 14880 239);"/>
+                    <Edge cubics="!14880 239(;14880,80 14800,0 14640,0q14880 239Q14880 0q14640 0);"/>
+                    <Edge cubics="!0 239(;0,239 0,811 0,811q0 239 0 811);"/>
+                    <Edge cubics="!240 0(;80,0 0,80 0,239q240 0Q0 0q0 239);"/>
+                    <Edge cubics="!0 811(;0,811 14880,811 14880,811q0 811 14880 811);"/>
+                    <Edge cubics="!14640 0(;14640,0 240,0 240,0q14640 0 240 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
