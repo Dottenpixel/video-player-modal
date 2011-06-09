@@ -1,0 +1,270 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cycle4_stage" itemID="46f0d118-00000072" sourceLibraryItemHRef="cycle2_stage copy" lastModified="1307564125" lastUniqueIdentifier="24">
+  <timeline>
+    <DOMTimeline name="cycle4_stage" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 28" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="13" name="loop" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("loop");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="2" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="13.05" ty="-22.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="24" ty="-12.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="26.3" ty="0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="22.35" ty="13.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="12.7" ty="23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="26.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="-13.85" ty="22.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="-22.8" ty="13.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="-26.1" ty="0.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="-23.4" ty="-12.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="" centerPoint3DX="-14.1" centerPoint3DY="-22.55">
+                  <matrix>
+                    <Matrix tx="-14.1" ty="-22.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="" centerPoint3DX="-0.8" centerPoint3DY="-26.85">
+                  <matrix>
+                    <Matrix tx="-0.8" ty="-26.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 45" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="" centerPoint3DX="0.15" centerPoint3DY="-13.3">
+                  <matrix>
+                    <Matrix tx="0.15" ty="-13.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.66" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="" centerPoint3DX="11.8" centerPoint3DY="-6.65">
+                  <matrix>
+                    <Matrix tx="11.8" ty="-6.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.66" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="12.75" ty="5.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.66" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="-0.2" ty="13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.66" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix tx="-12.5" ty="4.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.66" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="" centerPoint3DX="-11.5" centerPoint3DY="-7.95">
+                  <matrix>
+                    <Matrix tx="-11.5" ty="-7.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.66" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="1" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cycle_circle2" name="">
+                  <matrix>
+                    <Matrix ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#330066"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="frame" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

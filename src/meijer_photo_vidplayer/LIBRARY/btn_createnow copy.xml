@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_createnow copy" itemID="4de969b8-00001276" sourceLibraryItemHRef="btn_createnow copy" symbolType="graphic" lastModified="1307142846">
+  <timeline>
+    <DOMTimeline name="btn_createnow copy">
+      <layers>
+        <DOMLayer name="text" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup>
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMGroup selected="true">
+                              <members>
+                                <DOMGroup selected="true">
+                                  <members>
+                                    <DOMGroup selected="true">
+                                      <members>
+                                        <DOMStaticText selected="true" width="42.5" height="16.8" autoExpand="true" isSelectable="false">
+                                          <matrix>
+                                            <Matrix tx="-10.5" ty="-5.4"/>
+                                          </matrix>
+                                          <textRuns>
+                                            <DOMTextRun>
+                                              <characters>Replay</characters>
+                                              <textAttrs>
+                                                <DOMTextAttrs aliasText="false" lineSpacing="12" size="14" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                                              </textAttrs>
+                                            </DOMTextRun>
+                                          </textRuns>
+                                        </DOMStaticText>
+                                      </members>
+                                    </DOMGroup>
+                                  </members>
+                                </DOMGroup>
+                              </members>
+                            </DOMGroup>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup>
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMGroup selected="true">
+                              <members>
+                                <DOMGroup selected="true">
+                                  <members>
+                                    <DOMGroup selected="true">
+                                      <members>
+                                        <DOMSymbolInstance libraryItemName="replay_arrow" name="" selected="true" symbolType="button">
+                                          <matrix>
+                                            <Matrix a="0.703369140625" d="0.703369140625" tx="-31.3" ty="-10.2"/>
+                                          </matrix>
+                                          <transformationPoint>
+                                            <Point x="11.8" y="15"/>
+                                          </transformationPoint>
+                                        </DOMSymbolInstance>
+                                      </members>
+                                    </DOMGroup>
+                                  </members>
+                                </DOMGroup>
+                              </members>
+                            </DOMGroup>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="t" itemID="4db7184c-000002dc" sourceLibraryItemHRef="Symbol 1" lastModified="1303844940">
+  <timeline>
+    <DOMTimeline name="t">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!274 113S2|274 455!274 455|140 455!140 455|140 113!140 113|0 113!0 113|0 0!0 0|415 0!415 0|415 113!415 113|274 113"/>
+                    <Edge cubics="!0 0(;0,0 415,0 415,0q0 0 415 0);"/>
+                    <Edge cubics="!415 0(;415,0 415,113 415,113q415 0 415 113);"/>
+                    <Edge cubics="!415 113(;415,113 274,113 274,113q415 113 274 113);"/>
+                    <Edge cubics="!274 113(;274,113 274,455 274,455q274 113 274 455)274,455;"/>
+                    <Edge cubics="!274 455(;274,455 140,455 140,455q274 455 140 455);"/>
+                    <Edge cubics="!140 455(140,455;140,455 140,113 140,113q140 455 140 113);"/>
+                    <Edge cubics="!140 113(140,113;140,113 0,113 0,113q140 113 0 113);"/>
+                    <Edge cubics="!0 113(;0,113 0,0 0,0q0 113 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

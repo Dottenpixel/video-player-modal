@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="gfx_replay" itemID="4db9c9fa-000002e9" sourceLibraryItemHRef="Symbol 1" symbolType="graphic" lastModified="1304029066">
+  <timeline>
+    <DOMTimeline name="gfx_replay">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="replay_arrow" name="" selected="true" symbolType="button">
+                      <matrix>
+                        <Matrix tx="-35.6" ty="-13.55"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="11.75" y="15.55"/>
+                      </transformationPoint>
+                      <color>
+                        <Color tintMultiplier="1" tintColor="#66CC00"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMStaticText fontRenderingMode="standard" width="38.85" height="14.4" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-5.2" ty="-3.95"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Replay</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" letterSpacing="-0.5" bitmapSize="240" face="Gotham-Medium" fillColor="#66CC00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

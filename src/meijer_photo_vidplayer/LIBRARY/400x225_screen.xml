@@ -1,0 +1,109 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="400x225_screen" itemID="4db74248-00005d86" sourceLibraryItemHRef="Symbol 1" lastModified="1307569037" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="400x225_screen">
+      <layers>
+        <DOMLayer name="loading" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cycle4_stage" name="loadingAnim" centerPoint3DX="320" centerPoint3DY="180">
+                  <matrix>
+                    <Matrix a="0.752899169921875" d="0.75341796875" tx="320" ty="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="endframe" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc_endframe" name="endframe" selected="true" centerPoint3DX="320" centerPoint3DY="180">
+                  <transformationPoint>
+                    <Point x="1.7" y="180"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FLV Playback" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMCompiledClipInstance libraryItemName="components/FLVPlayback" name="vidPlayer" selected="true" uniqueID="2">
+                  <matrix>
+                    <Matrix a="1.99969482421875" d="1.5"/>
+                  </matrix>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='1.3.2'>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="align">
+      <Inspectable name="align" variable="align" category="" verbose="0" defaultValue="center" enumeration="center,top,left,bottom,right,topLeft,topRight,bottomLeft,bottomRight" type="List"/>
+   </property>
+   <property id="autoPlay">
+      <Inspectable name="autoPlay" variable="autoPlay" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="cuePoints">
+      <Inspectable name="cuePoints" variable="cuePoints" category="" verbose="0" defaultValue="" type="Video Cue Points"/>
+   </property>
+   <property id="isLive">
+      <Inspectable name="isLive" variable="isLive" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="preview">
+      <Inspectable name="preview" variable="preview" category="" verbose="0" defaultValue="None" type="Video Preview"/>
+   </property>
+   <property id="scaleMode">
+      <Inspectable name="scaleMode" variable="scaleMode" category="" verbose="0" defaultValue="maintainAspectRatio" enumeration="maintainAspectRatio,noScale,exactFit" type="List"/>
+   </property>
+   <property id="skin">
+      <Inspectable name="skin" variable="skin" category="" verbose="0" defaultValue="SkinOverPlayStopSeekFullVol.swf" type="Video Skin"/>
+   </property>
+   <property id="skinAutoHide">
+      <Inspectable name="skinAutoHide" variable="skinAutoHide" category="" verbose="0" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="skinBackgroundAlpha">
+      <Inspectable name="skinBackgroundAlpha" variable="skinBackgroundAlpha" category="" verbose="0" defaultValue="0.85" type="Number"/>
+   </property>
+   <property id="skinBackgroundColor">
+      <Inspectable name="skinBackgroundColor" variable="skinBackgroundColor" category="" verbose="0" defaultValue="#666666" type="Color"/>
+   </property>
+   <property id="source">
+      <Inspectable name="source" variable="source" category="" verbose="0" defaultValue="" type="Video Content Path"/>
+   </property>
+   <property id="volume">
+      <Inspectable name="volume" variable="volume" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                </DOMCompiledClipInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gfx_box" name="" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="64.0000457763672" d="36"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

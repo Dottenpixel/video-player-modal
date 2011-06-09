@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc_modal_head" itemID="4defc550-00001399" sourceLibraryItemHRef="Symbol 1" scaleGridLeft="14.85" scaleGridRight="45.65" scaleGridTop="14.85" scaleGridBottom="45.65" lastModified="1307575126">
+  <timeline>
+    <DOMTimeline name="mc_modal_head">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1210 210|1210 1020!1210 1020[1210 1210 1020 1210!1020 1210|210 1210!210 1210[20 1210 20 1020!20 1020|20 210!20 210[20 20 210 20!210 20|1020 20!1020 20[1210 20 1210 210!1020 0|210 0!210 0[0 0 0 210!0 210|0 1020!0 1020[0 1230 210 1230
+!210 1230|1020 1230!1020 1230[1230 1230 1230 1020!1230 1020|1230 210!1230 210[1230 0 1020 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#66408C"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1020 10S1|210 10!210 10[10 10 10 210!10 210|10 1020!10 1020[10 1220 210 1220!210 1220|1020 1220!1020 1220[1220 1220 1220 1020!1220 1020|1220 210!1220 210[1220 10 1020 10"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cycle_circle2" itemID="46ea4351-00000034" sourceLibraryItemHRef="cycle_circle1 copy" lastModified="1304029364">
+  <timeline>
+    <DOMTimeline name="cycle_circle2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="11" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFFF.A5, #FFFFFF.FF" startPointB="-0.078125, -0.0078125" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="#FFFFFF.A5, -0.1484375" anchorPointA="#FFFFFF.BF, -0.2578125" controlPointB="-0.078125, -0.0390625" anchorPointB="#FFFFFF.F1, -0.0625"/>
+                    <MorphCurves controlPointA="-0.1484375, -0.359375" anchorPointA="0, -0.359375" controlPointB="#FFFFFF.F7, -0.0859375" anchorPointB="#FFFFFF.FF, -0.0859375"/>
+                    <MorphCurves controlPointA="#0.26, -0.359375" anchorPointA="0.25, -0.2578125" controlPointB="#0.08, -0.0859375" anchorPointB="#0.0D, -0.0625"/>
+                    <MorphCurves controlPointA="#0.5B, -0.1484375" anchorPointA="#0.5B, #FFFFFF.FF" controlPointB="#0.13, -0.0390625" anchorPointB="#0.13, -0.0078125"/>
+                    <MorphCurves controlPointA="#0.5B, #0.25" anchorPointA="0.25, #0.3F" controlPointB="#0.13, #0.06" anchorPointB="#0.0D, #0.0B"/>
+                    <MorphCurves controlPointA="#0.26, #0.5B" anchorPointA="0, #0.5B" controlPointB="#0.08, #0.11" anchorPointB="#FFFFFF.FF, #0.11"/>
+                    <MorphCurves controlPointA="-0.1484375, #0.5B" anchorPointA="#FFFFFF.BF, #0.3F" controlPointB="#FFFFFF.F7, #0.11" anchorPointB="#FFFFFF.F1, #0.0B"/>
+                    <MorphCurves controlPointA="#FFFFFF.A5, #0.25" anchorPointA="#FFFFFF.A5, #FFFFFF.FF" controlPointB="-0.078125, #0.06" anchorPointB="-0.078125, -0.0078125"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.30101013183594" d="1.30101013183594" tx="1.3" ty="32.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1" y="-25.1"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!29 -451[9 -430 -20 -430!-20 -430[-49 -430 -70 -451!-70 -451[-90 -471 -90 -500!-90 -500[-90 -529 -70 -550!-70 -550[-49 -570 -20 -570!-20 -570[9 -570 29 -550!29 -550[50 -529 50 -500!50 -500[50 -471 29 -451"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.278778076171875" d="0.278778076171875" tx="0.25" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.1" y="-25.1"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!29 -451[9 -430 -20 -430!-20 -430[-49 -430 -70 -451!-70 -451[-90 -471 -90 -500!-90 -500[-90 -529 -70 -550!-70 -550[-49 -570 -20 -570!-20 -570[9 -570 29 -550!29 -550[50 -529 50 -500!50 -500[50 -471 29 -451"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

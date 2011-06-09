@@ -1,0 +1,129 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="video_4" itemID="4db76063-0000a870" linkageExportForAS="true" linkageBaseClass="net.creativelift.meebo.midori.MidoriVideoButton" linkageClassName="video_4" sourceLibraryItemHRef="video_3 copy" lastModified="1304020975" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="video_4" currentFrame="6">
+      <layers>
+        <DOMLayer name="as" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="labels" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="default" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="5" name="rollon" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" name="active" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="outline" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pic_outline" name="" centerPoint3DX="37" centerPoint3DY="22.5">
+                  <transformationPoint>
+                    <Point x="37" y="22.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pic_outline" name="" centerPoint3DX="37" centerPoint3DY="22.5">
+                  <transformationPoint>
+                    <Point x="37" y="22.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pic" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pic2" name="" selected="true" centerPoint3DX="37" centerPoint3DY="22.5">
+                  <transformationPoint>
+                    <Point x="37" y="22.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pic2" name="" centerPoint3DX="37" centerPoint3DY="22.5">
+                  <transformationPoint>
+                    <Point x="37" y="22.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pic2" name="" centerPoint3DX="37" centerPoint3DY="22.5">
+                  <transformationPoint>
+                    <Point x="37" y="22.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 16" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="62.1" height="13.2" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="5.9" ty="47.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>GOOD TIME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" letterSpacing="-0.5" size="11" bitmapSize="220" face="Gotham-Book" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

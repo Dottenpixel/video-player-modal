@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="replay_arrow_spin" itemID="4db8819c-0000f138" sourceLibraryItemHRef="Symbol 1" lastModified="1303938400">
+  <timeline>
+    <DOMTimeline name="replay_arrow_spin" currentFrame="49">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="49" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="replay_arrow" name="" symbolType="button">
+                  <transformationPoint>
+                    <Point x="11.75" y="15.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="replay_arrow" name="" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.9969482421875" b="0.07806396484375" c="-0.07806396484375" d="0.9969482421875" tx="1.25" ty="-0.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.5" y="15.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
