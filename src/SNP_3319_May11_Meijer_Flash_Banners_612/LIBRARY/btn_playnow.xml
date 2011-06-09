@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_playnow" itemID="4de96b49-00003dd2" sourceLibraryItemHRef="btn_createnow copy" symbolType="graphic" lastModified="1307568460">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_playnow" itemID="4de96b49-00003dd2" sourceLibraryItemHRef="btn_createnow copy" symbolType="graphic" lastModified="1307611421">
   <timeline>
     <DOMTimeline name="btn_playnow">
       <layers>
@@ -6,15 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[var titleTxt:String = "Posters"; 
-var vidSrc:String = "http://c3323853.r53.cf0.rackcdn.com/Meijer_Calender.flv";
-var clickTxt:String = "Clicky!";
-var clickUrl:String = "http://www.meijerphoto.com"; 
-
-this.onRelease = function () {
-//	ExternalInterface.call( "launchVideoModal", titleTxt, vidSrc, clickTxt, clickUrl );
-	getURL( "javascript:launchVideoModal('" + titleTxt + "','" + vidSrc + "','" + clickTxt + "','" + clickUrl + "')" );
-}]]></script>
+                <script><![CDATA[var titleTxt:String = "Posters"; var vidSrc:String = "http://c3323853.r53.cf0.rackcdn.com/Meijer_Calender.flv";var clickTxt:String = "Create a Poster Now";var clickUrl:String = "http://www.meijer.com/content/content_leftnav_manual.jsp?pageName=meijer_photo"; this.onRelease = function () {//	ExternalInterface.call( "launchVideoModal", titleTxt, vidSrc, clickTxt, clickUrl );	getURL( "javascript:launchVideoModal('" + titleTxt + "','" + vidSrc + "','" + clickTxt + "','" + clickUrl + "')" );}]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
@@ -37,7 +29,7 @@ this.onRelease = function () {
                     <Edge cubics="!-8873 983(;-8873,983 -8873,838 -8873,838q-8873 983 -8873 838);"/>
                   </edges>
                 </DOMShape>
-                <DOMStaticText width="65.7" height="16.8" autoExpand="true" isSelectable="false">
+                <DOMStaticText width="65.35" height="16.8" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="-521.25" ty="40.8"/>
                   </matrix>

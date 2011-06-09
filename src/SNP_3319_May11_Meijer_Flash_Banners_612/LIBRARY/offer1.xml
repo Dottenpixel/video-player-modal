@@ -35,7 +35,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!244 1896/144 1947!144 1947/66 1986!66 1986/67 1795!67 1795/244 1884!244 1884/256 1890!256 1890/244 1896!244 1566/144 1617!144 1617/66 1656!66 1656/67 1465!67 1465/244 1554!244 1554/256 1560!256 1560/244 1566"/>
+                    <Edge fillStyle1="1" edges="!244 1566/144 1617!144 1617/66 1656!66 1656/67 1465!67 1465/244 1554!244 1554/256 1560!256 1560/244 1566!144 1947/66 1986!66 1986/67 1795!67 1795/244 1884!244 1884/256 1890!256 1890/244 1896!244 1896/144 1947"/>
                     <Edge cubics="!256 1560(;256,1560 244,1566 244,1566q256 1560 244 1566);"/>
                     <Edge cubics="!244 1566(244,1566;244,1566 144,1617 144,1617q244 1566 144 1617);"/>
                     <Edge cubics="!144 1617(;144,1617 66,1656 66,1656q144 1617 66 1656)66,1656;"/>
@@ -50,7 +50,7 @@
                     <Edge cubics="!244 1884(244,1884;244,1884 256,1890 256,1890q244 1884 256 1890);"/>
                   </edges>
                 </DOMShape>
-                <DOMStaticText width="227.75" height="80.6" autoExpand="true" isSelectable="false">
+                <DOMStaticText width="227.2" height="80.6" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2.5"/>
                   </matrix>
@@ -87,7 +87,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText width="221.75" height="29" autoExpand="true" isSelectable="false">
+                <DOMStaticText width="208.4" height="33" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="69.6"/>
                   </matrix>

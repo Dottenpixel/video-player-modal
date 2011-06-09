@@ -1,77 +1,22 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc_main" itemID="4defdcfa-00002e8c" sourceLibraryItemHRef="Symbol 1" lastModified="1307571499" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc_main" itemID="4defdcfa-00002e8c" sourceLibraryItemHRef="Symbol 1" lastModified="1307611406" lastUniqueIdentifier="4">
   <timeline>
     <DOMTimeline name="mc_main">
       <layers>
-        <DOMLayer name="as" color="#9933CC" autoNamed="false">
+        <DOMLayer name="as" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[import fl.video.FLVPlayback;
-import fl.video.VideoEvent;
-import flash.events.MouseEvent;
-import flash.net.URLRequest;
-
-
-
-var vp:FLVPlayback = mc_video.vidPlayer;
-addVideoListeners();
-vp.source = "http://c3323853.r53.cf0.rackcdn.com/Meijer_Poster.flv";
-vp.playWhenEnoughDownloaded();
-vp.getVideoPlayer(vp.activeVideoPlayerIndex).smoothing = true;
-
-
-function addVideoListeners():void 
-{
-	vp.addEventListener( VideoEvent.COMPLETE, onVideoComplete );
-	vp.addEventListener( VideoEvent.STATE_CHANGE, onVideoEvent );
-}
-
-function onVideoEvent( e:VideoEvent ):void 
-{
-	trace(e, e.state, flash.utils.getTimer());
-	switch (e.state) {
-		case "loading":
-			mc_video.loadingAnim.visible = true;
-			mc_video.endframe.visible = false;
-			break;
-		case "playing":
-			mc_video.loadingAnim.visible = false;
-			mc_video.endframe.visible = false;
-			break;
-	}
-}
-
-function onVideoComplete( e:VideoEvent ):void 
-{
-	//show replay button
-	mc_video.endframe.visible = true;
-}
-
-btn_close.addEventListener( MouseEvent.CLICK, onCloseClick );
-function onCloseClick( e:MouseEvent ):void {
-	ExternalInterface.call("closeVideoModal");
-}
-
-mc_video.endframe.btn_cta.addEventListener( MouseEvent.CLICK, onCTAClick );
-function onCTAClick( e:MouseEvent ):void {
-	navigateToURL(new URLRequest("http://www.meijer.com/content/content_leftnav_manual.jsp?pageName=meijer_photo"), "_top");
-}
-
-mc_video.endframe.btn_replay.addEventListener( MouseEvent.CLICK, onReplayClick );
-function onReplayClick( e:MouseEvent ):void {
-	vp.seek(0);
-	vp.play();
-}]]></script>
+                <script><![CDATA[import fl.video.FLVPlayback;import fl.video.VideoEvent;import flash.events.MouseEvent;import flash.net.URLRequest;var paramObj:Object = LoaderInfo(this.root.loaderInfo).parameters;var titleTxt:String = paramObj.hasOwnProperty("titleTxt") ? paramObj.titleTxt : "Title Text";var vidSrc:String = paramObj.hasOwnProperty("vidSrc") ? paramObj.vidSrc : "http://c3323853.r53.cf0.rackcdn.com/Meijer_Poster.flv";var clickTxt:String = paramObj.hasOwnProperty("clickTxt") ? paramObj.clickTxt : "Click Text";var clickUrl:String = paramObj.hasOwnProperty("clickUrl") ? paramObj.clickUrl : "http://www.meijer.com/content/content_leftnav_manual.jsp?pageName=meijer_photo";var vp:FLVPlayback = mc_video.vidPlayer;addVideoListeners();vp.source = vidSrc;vp.playWhenEnoughDownloaded();vp.getVideoPlayer(vp.activeVideoPlayerIndex).smoothing = true;function addVideoListeners():void {	vp.addEventListener( VideoEvent.COMPLETE, onVideoComplete );	vp.addEventListener( VideoEvent.STATE_CHANGE, onVideoEvent );}function onVideoEvent( e:VideoEvent ):void {	trace(e, e.state, flash.utils.getTimer());	switch (e.state) {		case "loading":			mc_video.loadingAnim.visible = true;			mc_video.endframe.visible = false;			break;		case "playing":			mc_video.loadingAnim.visible = false;			mc_video.endframe.visible = false;			break;	}}function onVideoComplete( e:VideoEvent ):void {	//show replay button	mc_video.endframe.visible = true;}btn_close.addEventListener( MouseEvent.CLICK, onCloseClick );function onCloseClick( e:MouseEvent ):void {	ExternalInterface.call("closeVideoModal");}txtTitle.htmlText = titleTxt;mc_video.endframe.btn_cta.addEventListener( MouseEvent.CLICK, onCTAClick );function onCTAClick( e:MouseEvent ):void {	navigateToURL(new URLRequest( clickUrl ), "_top");}mc_video.endframe.btn_replay.addEventListener( MouseEvent.CLICK, onReplayClick );function onReplayClick( e:MouseEvent ):void {	vp.seek(0);	vp.play();}]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="Layer 1" color="#4FFF4F">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="mc_modal_head" name="" selected="true" centerPoint3DX="314.85" centerPoint3DY="29.5">
+                <DOMSymbolInstance libraryItemName="mc_modal_head" name="" centerPoint3DX="314.85" centerPoint3DY="29.5">
                   <matrix>
                     <Matrix a="10.4068298339844" d="0.9754638671875"/>
                   </matrix>
@@ -79,15 +24,19 @@ function onReplayClick( e:MouseEvent ):void {
                     <Point x="30.25" y="30.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMTLFText name="" right="1443" bottom="480">
+                <DOMDynamicText name="txtTitle" width="531.95" height="20" isSelectable="false" renderAsHTML="true">
                   <matrix>
-                    <Matrix tx="10" ty="7"/>
+                    <Matrix tx="12" ty="9"/>
                   </matrix>
-                  <tlfFonts>
-                    <TLFFont platformName="ITC Franklin Gothic Std Book" psName="ITCFranklinGothicStd-Demi" bold="true"/>
-                  </tlfFonts>
-                  <markup><tlfTextObject type="Point" editPolicy="readSelect" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" lineBreak="explicit" locale="en_US" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#ffffff" fontFamily="ITC Franklin Gothic Std Book" fontSize="20" fontStyle="normal" fontWeight="bold" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">Posters</span></p></TextFlow></tlfTextObject></markup>
-                </DOMTLFText>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Posters</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="20" bitmapSize="400" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
                 <DOMSymbolInstance libraryItemName="400x225_screen" name="mc_video" centerPoint3DX="200" centerPoint3DY="142.5">
                   <matrix>
                     <Matrix ty="30"/>

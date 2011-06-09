@@ -2,6 +2,9 @@
      <folders>
           <DOMFolderItem name="components" itemID="4db856d8-00000319" isExpanded="true"/>
      </folders>
+     <fonts>
+          <DOMFontItem name="Font 1" itemID="4df08d98-0000045a" font="ITCFranklinGothicStd-Demi" size="0" id="1" sourceLastImported="1307610520" embedRanges="1|2|3|4"/>
+     </fonts>
      <media>
           <DOMCompiledClipItem name="components/FLVPlayback" itemID="4db715be-0000006c" linkageExportForAS="true" linkageClassName="fl.video.FLVPlayback" sourceExternalFilepath="./LIBRARY/components/FLVPlayback" sourceLastImported="1267834356" sourcePlatform="macintosh" tooltip="FLVPlayback" customIconID="0" actionscriptClass="fl.video.FLVPlayback" livePreviewScmHRef="ROID1KBO4C.swf" livePreviewScmSourceFilename="/Users/dougefresh/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/TMPROID1KBO4C..swf" persistLivePreview11="true" livePreview11ScmHRef="ROID1KBO4C1.swf" livePreview11ScmSourceFilename="/Users/dougefresh/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/TMPROIBMKBO4C..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="components/FLVPlayback.xml" rootSymbolLinkageID="fl.video.FLVPlayback" movieRectRight="6401" movieRectBottom="4800" playerVersion="9" actionscriptVersion="3" hashKey="5hQS0VF2RpEUrBqYgohhO.">
                <parametersAsXML><![CDATA[   <property id="align">
@@ -830,6 +833,10 @@
      </extendedSwatchLists>
      <PrinterSettings platform="macintosh"/>
      <publishHistory>
+          <PublishItem publishSize="122032" publishTime="1307610713"/>
+          <PublishItem publishSize="122068" publishTime="1307610694"/>
+          <PublishItem publishSize="115641" publishTime="1307610186"/>
+          <PublishItem publishSize="115590" publishTime="1307610110"/>
           <PublishItem publishSize="117510" publishTime="1307575031"/>
           <PublishItem publishSize="117522" publishTime="1307574987"/>
           <PublishItem publishSize="117529" publishTime="1307570969"/>
@@ -846,10 +853,6 @@
           <PublishItem publishSize="113933" publishTime="1307563439"/>
           <PublishItem publishSize="112607" publishTime="1307559653"/>
           <PublishItem publishSize="112644" publishTime="1307559548"/>
-          <PublishItem publishSize="112637" publishTime="1307559492"/>
-          <PublishItem publishSize="112621" publishTime="1307559470"/>
-          <PublishItem publishSize="60248" publishTime="1307559392"/>
-          <PublishItem publishSize="2167" publishTime="1307555905"/>
      </publishHistory>
      <swcCache>
           <Swc hashKey="5hQS0VF2RpEUrBqYgohhO." href="IU3D9MHEAH.swc">

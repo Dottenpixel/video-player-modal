@@ -35,7 +35,7 @@
                     <Edge cubics="!243 2224(243,2224;243,2224 255,2230 255,2230q243 2224 255 2230);"/>
                   </edges>
                 </DOMShape>
-                <DOMStaticText selected="true" width="327" height="117.4" isSelectable="false">
+                <DOMStaticText selected="true" width="327" height="124.4" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="-4"/>
                   </matrix>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="gfx_replay" itemID="4db9c9fa-000002e9" sourceLibraryItemHRef="Symbol 1" symbolType="graphic" lastModified="1304029066">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="gfx_replay" itemID="4df08ab5-00000270" symbolType="graphic" lastModified="1307609781">
   <timeline>
     <DOMTimeline name="gfx_replay">
       <layers>
@@ -19,7 +19,7 @@
                         <Color tintMultiplier="1" tintColor="#66CC00"/>
                       </color>
                     </DOMSymbolInstance>
-                    <DOMStaticText fontRenderingMode="standard" width="38.85" height="14.4" autoExpand="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="38.85" height="12" autoExpand="true" isSelectable="false">
                       <matrix>
                         <Matrix tx="-5.2" ty="-3.95"/>
                       </matrix>

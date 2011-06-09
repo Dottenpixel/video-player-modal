@@ -42,7 +42,7 @@
                   <matrix>
                     <Matrix a="1.99969482421875" d="1.5"/>
                   </matrix>
-                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='1.3.2'>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='1.4.2'>
 </component>
 ]]></dataBindingXML>
                   <parametersAsXML><![CDATA[   <property id="align">

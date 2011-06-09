@@ -1,7 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="745" height="250" frameRate="20" currentTimeline="1" xflVersion="2.0" creatorInfo="Adobe Flash Professional CS5" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 11.0 build 485" majorVersion="11" buildNumber="485" guidesSnapTo="false" guidesVisible="false" snapAlign="false" objectsSnapTo="false" timelineLabelWidth="295" nextSceneIdentifier="100" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <fonts>
-          <DOMFontItem name="Font 2" itemID="4db4d194-00000350" font="ITCFranklinGothicStd-Book" size="0" id="2" sourceLastImported="1303695764"/>
           <DOMFontItem name="Font 1" itemID="4db4d15b-0000034e" font="ITCFranklinGothicStd-Demi" size="0" id="1" sourceLastImported="1303695707"/>
+          <DOMFontItem name="Font 2" itemID="4db4d194-00000350" font="ITCFranklinGothicStd-Book" size="0" id="2" sourceLastImported="1303695764"/>
      </fonts>
      <media>
           <DOMBitmapItem name="15_min_logo.png" itemID="4c7d3a1d-0000012c" sourceExternalFilepath="./LIBRARY/15_min_logo.png" sourceLastImported="1283275241" sourcePlatform="macintosh" allowSmoothing="true" useImportedJPEGData="false" originalCompressionType="lossless" quality="100" href="15_min_logo.png" bitmapDataHRef="M 60 1283275293.dat" frameRight="2560" frameBottom="2460"/>
