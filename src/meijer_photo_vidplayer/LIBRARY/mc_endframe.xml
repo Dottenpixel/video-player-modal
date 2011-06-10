@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc_endframe" itemID="4defd669-000026ad" sourceLibraryItemHRef="Symbol 1" lastModified="1307569065" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc_endframe" itemID="4defd669-000026ad" sourceLibraryItemHRef="Symbol 1" lastModified="1307658678" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="mc_endframe">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="btn_cta" name="btn_cta" selected="true" symbolType="button">
+                <DOMSymbolInstance libraryItemName="btn_cta" name="btn_cta" selected="true" centerPoint3DX="320" centerPoint3DY="180">
                   <matrix>
                     <Matrix tx="320" ty="180"/>
                   </matrix>

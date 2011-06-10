@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc_main" itemID="4defdcfa-00002e8c" sourceLibraryItemHRef="Symbol 1" lastModified="1307611406" lastUniqueIdentifier="4">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mc_main" itemID="4defdcfa-00002e8c" sourceLibraryItemHRef="Symbol 1" lastModified="1307668015" lastUniqueIdentifier="5">
   <timeline>
     <DOMTimeline name="mc_main">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[import fl.video.FLVPlayback;import fl.video.VideoEvent;import flash.events.MouseEvent;import flash.net.URLRequest;var paramObj:Object = LoaderInfo(this.root.loaderInfo).parameters;var titleTxt:String = paramObj.hasOwnProperty("titleTxt") ? paramObj.titleTxt : "Title Text";var vidSrc:String = paramObj.hasOwnProperty("vidSrc") ? paramObj.vidSrc : "http://c3323853.r53.cf0.rackcdn.com/Meijer_Poster.flv";var clickTxt:String = paramObj.hasOwnProperty("clickTxt") ? paramObj.clickTxt : "Click Text";var clickUrl:String = paramObj.hasOwnProperty("clickUrl") ? paramObj.clickUrl : "http://www.meijer.com/content/content_leftnav_manual.jsp?pageName=meijer_photo";var vp:FLVPlayback = mc_video.vidPlayer;addVideoListeners();vp.source = vidSrc;vp.playWhenEnoughDownloaded();vp.getVideoPlayer(vp.activeVideoPlayerIndex).smoothing = true;function addVideoListeners():void {	vp.addEventListener( VideoEvent.COMPLETE, onVideoComplete );	vp.addEventListener( VideoEvent.STATE_CHANGE, onVideoEvent );}function onVideoEvent( e:VideoEvent ):void {	trace(e, e.state, flash.utils.getTimer());	switch (e.state) {		case "loading":			mc_video.loadingAnim.visible = true;			mc_video.endframe.visible = false;			break;		case "playing":			mc_video.loadingAnim.visible = false;			mc_video.endframe.visible = false;			break;	}}function onVideoComplete( e:VideoEvent ):void {	//show replay button	mc_video.endframe.visible = true;}btn_close.addEventListener( MouseEvent.CLICK, onCloseClick );function onCloseClick( e:MouseEvent ):void {	ExternalInterface.call("closeVideoModal");}txtTitle.htmlText = titleTxt;mc_video.endframe.btn_cta.addEventListener( MouseEvent.CLICK, onCTAClick );function onCTAClick( e:MouseEvent ):void {	navigateToURL(new URLRequest( clickUrl ), "_top");}mc_video.endframe.btn_replay.addEventListener( MouseEvent.CLICK, onReplayClick );function onReplayClick( e:MouseEvent ):void {	vp.seek(0);	vp.play();}]]></script>
+                <script><![CDATA[import fl.video.FLVPlayback;import fl.video.VideoEvent;import flash.events.MouseEvent;import flash.net.URLRequest;var paramObj:Object = LoaderInfo(stage.loaderInfo).parameters;trace(paramObj.titleTxt);trace(paramObj.vidSrc);trace(paramObj.clickTxt);trace(paramObj.clickUrl);var titleTxt:String = paramObj.hasOwnProperty("titleTxt") ? paramObj.titleTxt : "Title Text";var vidSrc:String = paramObj.hasOwnProperty("vidSrc") ? paramObj.vidSrc : "http://c3323853.r53.cf0.rackcdn.com/Meijer_Poster.flv";var clickTxt:String = paramObj.hasOwnProperty("clickTxt") ? paramObj.clickTxt : "Click Text";var clickUrl:String = paramObj.hasOwnProperty("clickUrl") ? paramObj.clickUrl : "http://www.meijer.com/content/content_leftnav_manual.jsp?pageName=meijer_photo";var ctaLabel:TextField = mc_video.endframe.btn_cta.cta.txt_label;var ctaShape:MovieClip = mc_video.endframe.btn_cta.cta.btn_shape;var vp:FLVPlayback = mc_video.vidPlayer;addVideoListeners();vp.source = vidSrc;vp.playWhenEnoughDownloaded();vp.getVideoPlayer(vp.activeVideoPlayerIndex).smoothing = true;function addVideoListeners():void {	vp.addEventListener( VideoEvent.COMPLETE, onVideoComplete );	vp.addEventListener( VideoEvent.STATE_CHANGE, onVideoEvent );}function onVideoEvent( e:VideoEvent ):void {	trace(e, e.state, flash.utils.getTimer());	switch (e.state) {		case "loading":			mc_video.loadingAnim.visible = true;			mc_video.endframe.visible = false;			break;		case "playing":			mc_video.loadingAnim.visible = false;			mc_video.endframe.visible = false;			break;	}}function onVideoComplete( e:VideoEvent ):void {	//show replay button	mc_video.endframe.visible = true;}btn_close.addEventListener( MouseEvent.CLICK, onCloseClick );function onCloseClick( e:MouseEvent ):void {	ExternalInterface.call("closeVideoModal");}txtTitle.htmlText = titleTxt;ctaLabel.htmlText = clickTxt;ctaLabel.autoSize = ctaLabel.getTextFormat().align;ctaShape.width = ctaLabel.width + 26 ;mc_video.endframe.btn_cta.addEventListener( MouseEvent.CLICK, onCTAClick );function onCTAClick( e:MouseEvent ):void {	navigateToURL(new URLRequest( clickUrl ), "_top");}mc_video.endframe.btn_replay.addEventListener( MouseEvent.CLICK, onReplayClick );function onReplayClick( e:MouseEvent ):void {	vp.seek(0);	vp.play();}]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
@@ -24,15 +24,15 @@
                     <Point x="30.25" y="30.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="txtTitle" width="531.95" height="20" isSelectable="false" renderAsHTML="true">
+                <DOMDynamicText name="txtTitle" width="531.95" height="22" isSelectable="false" renderAsHTML="true">
                   <matrix>
-                    <Matrix tx="12" ty="9"/>
+                    <Matrix tx="12" ty="4"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Posters</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="20" bitmapSize="400" face="ITCFranklinGothicStd-Demi" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="20" bitmapSize="400" face="FranklinGothic-Demi" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

@@ -18,7 +18,7 @@
                                   <members>
                                     <DOMGroup selected="true">
                                       <members>
-                                        <DOMStaticText selected="true" width="42.15" height="16.8" autoExpand="true" isSelectable="false">
+                                        <DOMStaticText selected="true" width="42.5" height="16.8" autoExpand="true" isSelectable="false">
                                           <matrix>
                                             <Matrix tx="-10.5" ty="-5.4"/>
                                           </matrix>

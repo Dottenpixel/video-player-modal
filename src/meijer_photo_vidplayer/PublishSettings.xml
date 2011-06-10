@@ -5,7 +5,7 @@
     <flash>1</flash>
     <projectorWin>0</projectorWin>
     <projectorMac>0</projectorMac>
-    <html>1</html>
+    <html>0</html>
     <gif>0</gif>
     <jpeg>0</jpeg>
     <png>0</png>
@@ -60,8 +60,8 @@
     <TopDown></TopDown>
     <FireFox></FireFox>
     <Report>0</Report>
-    <Protect>0</Protect>
-    <OmitTraceActions>0</OmitTraceActions>
+    <Protect>1</Protect>
+    <OmitTraceActions>1</OmitTraceActions>
     <Quality>80</Quality>
     <DeblockingFilter>0</DeblockingFilter>
     <StreamFormat>0</StreamFormat>

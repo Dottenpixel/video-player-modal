@@ -19,7 +19,7 @@
                         <Color tintMultiplier="1" tintColor="#66CC00"/>
                       </color>
                     </DOMSymbolInstance>
-                    <DOMStaticText fontRenderingMode="standard" width="38.85" height="12" autoExpand="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="38.85" height="14.4" autoExpand="true" isSelectable="false">
                       <matrix>
                         <Matrix tx="-5.2" ty="-3.95"/>
                       </matrix>
