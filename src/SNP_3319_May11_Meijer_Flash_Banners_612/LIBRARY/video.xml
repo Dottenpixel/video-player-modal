@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="video" itemID="4de96833-00000f6b" sourceLibraryItemHRef="Symbol 1" lastModified="1307570161" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="video" itemID="4de96833-00000f6b" sourceLibraryItemHRef="Symbol 1" lastModified="1307733432" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="video">
       <layers>
@@ -6,15 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[var titleTxt:String = "Posters"; 
-var vidSrc:String = "http://c3323853.r53.cf0.rackcdn.com/Meijer_Calender.flv";
-var clickTxt:String = "Clicky!";
-var clickUrl:String = "http://www.meijerphoto.com"; 
-
-this.onRelease = function () {
-//	ExternalInterface.call( "launchVideoModal", titleTxt, vidSrc, clickTxt, clickUrl );
-	getURL( "javascript:launchVideoModal('" + titleTxt + "','" + vidSrc + "','" + clickTxt + "','" + clickUrl + "')" );
-}]]></script>
+                <script><![CDATA[var titleTxt:String = "Posters"; var vidSrc:String = "http://c3323853.r53.cf0.rackcdn.com/Meijer_Poster.flv";var clickTxt:String = "Create a Poster Now";var clickUrl:String = "http://www.snapfish.com/meijer.com_posters"; this.onRelease = function () {//	ExternalInterface.call( "launchVideoModal", titleTxt, vidSrc, clickTxt, clickUrl );	getURL( "javascript:launchVideoModal('" + titleTxt + "','" + vidSrc + "','" + clickTxt + "','" + clickUrl + "')" );}]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>

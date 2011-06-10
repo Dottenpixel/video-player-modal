@@ -12,8 +12,8 @@
           <DOMBitmapItem name="mug.png" itemID="4ddebb12-000038f2" sourceExternalFilepath="./LIBRARY/mug.png" sourceLastImported="1306445647" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="mug.png" bitmapDataHRef="M 20 1305592161.dat" frameRight="3860" frameBottom="4040"/>
           <DOMBitmapItem name="poster2.png" itemID="4ddeab09-00000f53" sourceExternalFilepath="./LIBRARY/poster2.png" sourceLastImported="1306438507" sourcePlatform="macintosh" originalCompressionType="lossless" quality="50" href="poster2.png" bitmapDataHRef="M 10 1306439959.dat" frameRight="5480" frameBottom="4640"/>
           <DOMBitmapItem name="print_bg.jpg" itemID="4dd17b8d-000086e5" sourceExternalFilepath="./LIBRARY/print_bg.jpg" sourceLastImported="1305574278" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="print_bg.jpg" bitmapDataHRef="M 24 1305574285.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
-          <DOMBitmapItem name="print1.jpg" itemID="4dd17c37-00009581" sourceExternalFilepath="./LIBRARY/print1.jpg" sourceLastImported="1305574449" sourcePlatform="macintosh" allowSmoothing="true" quality="50" href="print1.jpg" bitmapDataHRef="M 28 1305574455.dat" frameRight="1600" frameBottom="2400" isJPEG="true"/>
-          <DOMBitmapItem name="print2.jpg" itemID="4dd17c37-0000957d" sourceExternalFilepath="./LIBRARY/print2.jpg" sourceLastImported="1305574452" sourcePlatform="macintosh" allowSmoothing="true" quality="50" href="print2.jpg" bitmapDataHRef="M 27 1305574455.dat" frameRight="2800" frameBottom="2180" isJPEG="true"/>
+          <DOMBitmapItem name="print1.jpg" itemID="4dd17c37-00009581" sourceExternalFilepath="./LIBRARY/print1.jpg" sourceLastImported="1305574449" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="print1.jpg" bitmapDataHRef="M 28 1305574455.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="print2.jpg" itemID="4dd17c37-0000957d" sourceExternalFilepath="./LIBRARY/print2.jpg" sourceLastImported="1305574452" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="print2.jpg" bitmapDataHRef="M 27 1305574455.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="video.jpg" itemID="4ded152a-0000056b" sourceExternalFilepath="./LIBRARY/video.jpg" sourceLastImported="1307383080" sourcePlatform="macintosh" externalFileCRC32="2961218155" externalFileSize="58772" allowSmoothing="true" quality="50" href="video.jpg" bitmapDataHRef="M 11 1307142186.dat" frameRight="6000" frameBottom="3360" isJPEG="true"/>
      </media>
      <symbols>
@@ -70,11 +70,6 @@
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="615" duration="24" keyMode="9728">
-                                   <Actionscript>
-                                        <script><![CDATA[mc_create2.onRelease = function(){
-	getURL("http://www.snapfish.com/meijer/revieworderstore/prd=Mug/prdtype=Photogift;PHOTOTHIS(FunnelMug);17oz;7.5x6;tiled", _blank);
-}]]></script>
-                                   </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="639" keyMode="9728">
@@ -961,6 +956,9 @@
                                              <transformationPoint>
                                                   <Point x="-476.95" y="47.65"/>
                                              </transformationPoint>
+                                             <filters>
+                                                  <DropShadowFilter angle="90" blurX="0" blurY="0" distance="0" quality="3" strength="0"/>
+                                             </filters>
                                              <color>
                                                   <Color alphaMultiplier="0"/>
                                              </color>
@@ -969,13 +967,16 @@
                               </DOMFrame>
                               <DOMFrame index="444" duration="175" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="btn_playnow" name="mc_create2" selected="true" centerPoint3DX="79.95" centerPoint3DY="217">
+                                        <DOMSymbolInstance libraryItemName="btn_playnow" name="" selected="true" centerPoint3DX="79.95" centerPoint3DY="217">
                                              <matrix>
                                                   <Matrix tx="556.9" ty="169.35"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="-476.95" y="47.65"/>
                                              </transformationPoint>
+                                             <filters>
+                                                  <DropShadowFilter angle="90" blurX="0" blurY="0" distance="0" quality="3" strength="0"/>
+                                             </filters>
                                         </DOMSymbolInstance>
                                    </elements>
                               </DOMFrame>
@@ -1076,7 +1077,7 @@
                               </DOMFrame>
                               <DOMFrame index="419" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="video" name="" selected="true" centerPoint3DX="514.95" centerPoint3DY="142.95">
+                                        <DOMSymbolInstance libraryItemName="video" name="" centerPoint3DX="514.95" centerPoint3DY="142.95">
                                              <matrix>
                                                   <Matrix tx="514.95" ty="142.95"/>
                                              </matrix>
@@ -1671,6 +1672,8 @@
      </extendedSwatchLists>
      <PrinterSettings platform="macintosh"/>
      <publishHistory>
+          <PublishItem publishSize="232836" publishTime="1307660578"/>
+          <PublishItem publishSize="232835" publishTime="1307660576"/>
           <PublishItem publishSize="232851" publishTime="1307570246"/>
           <PublishItem publishSize="232852" publishTime="1307570164"/>
           <PublishItem publishSize="232831" publishTime="1307568384"/>

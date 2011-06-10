@@ -14,10 +14,11 @@ var launchVideoModal = function(tTxt,vSrc,clickTxt,clickUrl){
 	//$("div.videoModal").append('<p>' + tTxt + '</p><p>' + vSrc + '</p><p>' + clickTxt + '</p><p>' + clickUrl + '</p>');
 
 	var flashvars = { 
-		"titleTxt": tTxt, 
-		"vidSrc" : vSrc,
-		"clickTxt" : clickTxt,
-		"clickUrl" : clickUrl 
+		"titleTxt": tTxt,		// "Posters" 
+		"vidSrc" : vSrc,		// "http://opti.snapfish.com/db/USA/meijer/meijerPhotoPage/assetsreskin/Meijer_Poster.flv"
+		"clickTxt" : clickTxt,	// "Create a Poster Now"
+		"clickUrl" : clickUrl	// "http://www.snapfish.com/meijer.com_posters"
+		
 	};
 	var params = { "wmode":"transparent", "allowScriptAccess":"sameDomain", "allowFullscreen":"true", "base":"swf" };
 	var setAttributes = function (id) {
